@@ -1,0 +1,14 @@
+diff
+
+html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Open link in Same Tab</titles>
+</head>
+<body>
+<h2>Click below to go to Google (same tab)</h2>
+<a href="https://www.google.com" target="_self">Go to Google</a>
+</body>
+</html>
