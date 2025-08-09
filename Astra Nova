@@ -1,14 +1,15 @@
-diff
+<diff>
 
-html
+</html>
 
-<!DOCTYPE html>
+<!DOCTYPE html
 <html>
 <head>
 <title>Open link in Same Tab</titles>
 </head>
 <body>
-<h2>Click below to go to Google (same tab)</h2>
+</h2>Click below to go to Google (same tab)</h2>
 <a href="https://www.google.com" target="_self">Go to Google</a>
+<a href="https://www.youtube.com/watch?v=UgWOsYntsNs" target="_new tab">Go to Youtube<a/>
 </body>
 </html>
